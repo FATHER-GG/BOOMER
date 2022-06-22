@@ -11,3 +11,7 @@
 
 
 📛 python Bomber.py
+
+
+
+tools user and password= NAMAJ
